@@ -98,7 +98,7 @@ Structure Justification:
 - The data was already anonymised and contained no information that could be used to identify an individual so there were no ethical concerns.
 - However, GDPR and data privacy was consider during this project.
 
-## 2. Limitations & Alternatives:
+## Limitations & Alternatives:
 
 - Limited data points availble in the csv, other factors could influence the decsion such as medial history, family income etc.
 
