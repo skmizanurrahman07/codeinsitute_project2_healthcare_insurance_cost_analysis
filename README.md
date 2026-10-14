@@ -49,7 +49,7 @@ To meet the business requirements this project follows CRISP-DM Workflow as a st
           Read the dataset file into a pandas dataframe, where step cleaning and creating new calculated coloumns are performed
 - Step 4: Analysis and Visualisation with python Ecosystem
           Analysis include- Probabilities, Statistics and Machine learning algorithm and feature engineering pipeline
-          Visualisation include- python, Pandas, Matplotlib, seaborn, plotly, Scikit-learn, Scipy, Streamlit
+          Visualisation include- python, Pandas, Matplotlib, seaborn, plotly, Scikit-learn, Scipy
 - Step 5: Business Intelligence and Dashboard design with Power BI
           From Step 3, the clean dataset transfer to Power BI for business intelligence and interactive dash board design and for user interaction. Click this link to access power BI intelligence dashboard. 
         -  Link: https://app.powerbi.com/groups/me/reports/1195b5d4-d22f-41e2-a513-57cf3c25ea8f/255a81ee1aa6d8cefa70?experience=power-bi
@@ -81,25 +81,15 @@ To meet the business requirements this project follows CRISP-DM Workflow as a st
   
 ## Analysis techniques used
 
-1. Methods Used:
+Structure Justification:
 
-   - Descriptive statistics (`.describe()`, `.info()` etc.)
+   - Data cleanup and transform and feature engineering Section 1
 
-   - Segmentation (used bins for age group and bmi group)
+   - Visualisation and statistical analysis in Section 2.
+   
+   - Machine Learning in Section 3
 
-   - Visual analytics (`Matplotlib`, `Seaborn`, `Plotly`)
-
-2. Limitations & Alternatives:
-
-   - Limited data points availble in the csv, other factors could influence the decsion such as medial history etc.
-
-3. Structure Justification:
-
-   - Data cleanup and transform notebook as the first part.
-
-   - Visualisation notebook for the second part.
-
-4. Use of Generative AI:
+## Use of Generative AI:
 
    - AI supported: GitHub copilot extention was installed and so did speed up some repetative tasks.
 
@@ -107,6 +97,10 @@ To meet the business requirements this project follows CRISP-DM Workflow as a st
 
 - The data was already anonymised and contained no information that could be used to identify an individual so there were no ethical concerns.
 - However, GDPR and data privacy was consider during this project.
+
+## 2. Limitations & Alternatives:
+
+- Limited data points availble in the csv, other factors could influence the decsion such as medial history, family income etc.
 
 ## Unfixed Bugs
 
@@ -125,7 +119,6 @@ The following libraries are used for this data analysis-
 7. `scikit-learn` - Machine Learning Models and Preprocessing 
 8. `XGBboost` - Gradient Boosting for High‑Performance ML 
 9. `LightGBM` - Fast Gradient Boosting for Large Datasets
-10. `Streamlit` - Interactive Web Dashboard
 
 ## Credits
 - [Code institute](https://codeinstitute.net/) - The intial project structure.
