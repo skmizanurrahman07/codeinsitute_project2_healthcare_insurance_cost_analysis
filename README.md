@@ -20,7 +20,7 @@ The goal is to understand the drivers of insurance charges and build predictive 
 ## Business Requirements
 
 * Identify the factors that affect insurance cost
-* Develop an interactive business intelligence tool. 
+* Develop an interactive business intelligence tool
 
 ## Hypothesis and how to validate?
 
@@ -33,7 +33,13 @@ The goal is to understand the drivers of insurance charges and build predictive 
 
 ## Project Plan and Development Road map
 
-- To meet the business requirements this project follows CRISP-DM Workflow as a standard: Business Understanding, Data understanding, Data preparation, Modelling, Evaluation, and deployment.
+To meet the business requirements this project follows CRISP-DM Workflow as a standard: 
+- Business Understanding 
+- Data understanding
+- Data preparation
+- Modelling
+- Evaluation and 
+- Deployment
 
 - Step 1: Preparation 
           Setup Vscode environment (IDE), create public Github Repository, upload project with all the required files and folders. 
@@ -45,8 +51,10 @@ The goal is to understand the drivers of insurance charges and build predictive 
           Analysis include- Probabilities, Statistics and Machine learning algorithm and feature engineering pipeline
           Visualisation include- python, Pandas, Matplotlib, seaborn, plotly, Scikit-learn, Scipy, Streamlit
 - Step 5: Business Intelligence and Dashboard design with Power BI
-          From Step 3, the clean dataset transfer to Power BI for business intelligence and interactive dash board design and for user interaction. Click this link to access power BI intelligence dashboard. Link: https://app.powerbi.com/groups/me/reports/1195b5d4-d22f-41e2-a513-57cf3c25ea8f/255a81ee1aa6d8cefa70?experience=power-bi
-- Details data analysis Project work breakdown structure (WBS) in the Project Board. Click this link to access project board. Link-https://github.com/users/skmizanurrahman07/projects/9
+          From Step 3, the clean dataset transfer to Power BI for business intelligence and interactive dash board design and for user interaction. Click this link to access power BI intelligence dashboard. 
+        -  Link: https://app.powerbi.com/groups/me/reports/1195b5d4-d22f-41e2-a513-57cf3c25ea8f/255a81ee1aa6d8cefa70?experience=power-bi
+- Details data analysis Project work breakdown structure (WBS) in the Project Board. Click this link to access project board. 
+          - Link: https://github.com/users/skmizanurrahman07/projects/9
 ## The rationale to map the business requirements to the Data Visualisations
 
 - Hypothesis (H1): Smokers have higher insurance charges
